@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Sachin De Silva",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^11.2.0"
+  }
+}
